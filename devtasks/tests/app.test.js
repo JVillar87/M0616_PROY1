@@ -4,7 +4,7 @@ import {
   isValidTask,
   filterTasks,
   getTaskStats
-} from "../js/taskManager.js";
+} from "../js/tasksManager.js";
 
 describe("isValidTask", () => {
   it("accepta una tasca amb text", () => {
