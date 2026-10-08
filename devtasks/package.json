@@ -1,0 +1,13 @@
+{
+  "name": "devtasks",
+  "version": "1.0.0",
+  "description": "Aplicació web de gestió de tasques per practicar DevOps amb GitHub",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
+}
