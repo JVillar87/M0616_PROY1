@@ -175,6 +175,7 @@ button:hover {
 }
 
 @media (max-width: 600px) {
+
   .form-row,
   .section-header,
   .stats {
